@@ -27,7 +27,6 @@ Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, regis
 
 <div align="center">
 
-![slingggg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slingggg&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=slingggg&theme=tokyonight&hide_border=true)
 
 </div>
