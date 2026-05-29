@@ -2,8 +2,8 @@
 
 
 <div align="center">
-
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/34b48a97-f010-41d5-bd64-8518bba8c4fe" />
+  
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/5314a84a-9169-4705-b579-c1ab67cd0afb" />
 
 </div>
 
