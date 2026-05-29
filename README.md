@@ -9,9 +9,8 @@
 
 ---
   
-<h3>Olá, Sou aluno na DIO em busca de me profissionalizar com foco em Back-end.<h3>
-  
-Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar melhoria contínua na minha trajetória.
+<h1>Hello, I am a student at DIO looking to become a professional with a focus on Back-end.</h1>
+<h2>With this profile, my goal is not only to share my projects, but also to record my progress and apply continuous improvement throughout my career.</h2>
 
 ---
 
