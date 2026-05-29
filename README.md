@@ -10,7 +10,8 @@
 
 ---
   
-<h3>Olá, Sou aluno na DIO em busca de me profissionalizar com foco em Agentes de IA, Front-end e Back-end.<h3>
+<h3>Olá, Sou aluno na DIO em busca de me profissionalizar com foco em Back-end.<h3>
+  
 Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar melhoria contínua na minha trajetória.
 
 ---
@@ -27,7 +28,7 @@ Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, regis
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=slingggg&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=il0vefrid4y&theme=tokyonight&hide_border=true)
 
 </div>
 
