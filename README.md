@@ -3,8 +3,7 @@
 
 <div align="center">
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/acaabc1e-edd1-43d0-a52a-b15624a47e17" />
-
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/34b48a97-f010-41d5-bd64-8518bba8c4fe" />
 
 </div>
 
@@ -39,9 +38,6 @@ Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, regis
 <a href="mailto:davidicelestial@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-[![GitHub](https://img.shields.io/badge/GitHub-slingggg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slingggg)
-  
 <a href="https://instagram.com/_slin.g">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
